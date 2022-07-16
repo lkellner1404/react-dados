@@ -1,0 +1,8 @@
+.dice-roll{
+  text-align: center;
+}
+.dice-roll>i{
+  font-size: 10em;
+  color: #8414ff;
+  margin-inline: 10px;
+}
